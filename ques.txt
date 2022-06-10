@@ -1,0 +1,4 @@
+#1.Create an api to get the user details based on user's email using serializer
+#2.Create an api to update the user's city
+#3.Add is_active boolean field in the user's table and add a filter for the same in the admin panel
+#4.Create a new record for the user using post api
